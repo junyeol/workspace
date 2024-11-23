@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\\uC0C8 \uD3F4\uB354\\workspace\\cote\\.git;C\:\\\uC0C8 \uD3F4\uB354\\workspace\\day01\\.git;
-GitRepositoriesView.GitDirectories.relative=cote\\.git;day01\\.git;
+GitRepositoriesView.GitDirectories=C\:\\\uC0C8 \uD3F4\uB354\\workspace\\.git;C\:\\\uC0C8 \uD3F4\uB354\\workspace\\cote\\.git;C\:\\Users\\junye\\git\\repository\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;cote\\.git;C\:\\Users\\junye\\git\\repository\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
